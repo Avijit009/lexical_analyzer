@@ -1,0 +1,20 @@
+# include < stdio.h >
+#include < conio.h >
+
+int main ( )
+{
+   // initialize variables
+    int num , count , sum = 0 ;
+    float sumf ;
+	scanf ( " %d " , sumf ) ;
+	for ( i = 0 ; i < 10 ; i + + )
+        /*
+	adding
+	a
+	and
+	b
+	*/
+	a + b ; 
+	printf ( " Sum = %d " , sum ) ;
+    return 0 ;
+}   
